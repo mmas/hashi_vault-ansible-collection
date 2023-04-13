@@ -1,0 +1,11 @@
+---
+requires_ansible: '>=2.11.0'
+action_groups:
+  vault:
+    - vault_pki_certificate
+    - vault_pki_intermediate
+    - vault_pki_role
+    - vault_pki_root
+    - vault_pki_urls
+    - vault_policy
+    - vault_secrets_engine

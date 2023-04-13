@@ -1,0 +1,13 @@
+namespace: "mmas"
+name: "hashi_vault"
+description: Ansible modules for Hashicorp Vault
+authors:
+  - "Modesto Mas"
+version: "0.0.1"
+license:
+  - "MIT"
+tags:
+  - hashi_vault
+readme: "README.md"
+repository: "https://github.com/mmas/hashi_corp-ansible-collection"
+issues: "https://github.com/mmas/hashi_corp-ansible-collection/issues"
